@@ -6,3 +6,7 @@ A página da biblioteca Triple Peaks é o segundo projeto no programa de desenvo
 
 - HTML5 semântico
 - Flexbox
+- Posicionamento
+- CSS
+
+link para acesso: https://ronesjunior.github.io/sprint_2_tripleten/index.html
