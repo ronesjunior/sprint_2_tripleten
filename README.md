@@ -8,5 +8,7 @@ A página da biblioteca Triple Peaks é o segundo projeto no programa de desenvo
 - Flexbox
 - Posicionamento
 - CSS
+- Cards
+- Listas não ordenadas
 
 link para acesso: https://ronesjunior.github.io/sprint_2_tripleten/index.html
